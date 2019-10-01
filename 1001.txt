@@ -1,0 +1,246 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0lax">學年度</th>
+    <th class="tg-0lax">學期</th>
+    <th class="tg-0lax">設立別</th>
+    <th class="tg-0lax">學校類別</th>
+    <th class="tg-0lax">學校統計處代碼</th>
+    <th class="tg-0lax">學校名稱</th>
+    <th class="tg-0lax">學制班別</th>
+    <th class="tg-0lax">性別</th>
+    <th class="tg-0lax">在學學生數</th>
+    <th class="tg-0lax">學期內新辦理休學人數小計</th>
+    <th class="tg-0lax">至學期底總休學人數小計</th>
+    <th class="tg-0lax">百分比</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">105</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1057</td>
+    <td class="tg-0lax">德明財經科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">男</td>
+    <td class="tg-0lax">2,751</td>
+    <td class="tg-0lax">85</td>
+    <td class="tg-0lax">207</td>
+    <td class="tg-0lax">7.5%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">105</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1057</td>
+    <td class="tg-0lax">德明財經科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">女</td>
+    <td class="tg-0lax">4,689</td>
+    <td class="tg-0lax">73</td>
+    <td class="tg-0lax">160</td>
+    <td class="tg-0lax">3.4%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">105</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1071</td>
+    <td class="tg-0lax">城市學校財團法人臺北城市科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">男</td>
+    <td class="tg-0lax">4,422</td>
+    <td class="tg-0lax">158</td>
+    <td class="tg-0lax">358</td>
+    <td class="tg-0lax">8.1%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">105</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1071</td>
+    <td class="tg-0lax">城市學校財團法人臺北城市科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">女</td>
+    <td class="tg-0lax">2,866</td>
+    <td class="tg-0lax">103</td>
+    <td class="tg-0lax">178</td>
+    <td class="tg-0lax">6.2%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">105</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1057</td>
+    <td class="tg-0lax">德明財經科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">男</td>
+    <td class="tg-0lax">2,751</td>
+    <td class="tg-0lax">51</td>
+    <td class="tg-0lax">192</td>
+    <td class="tg-0lax">7.0%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">105</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1057</td>
+    <td class="tg-0lax">德明財經科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">女</td>
+    <td class="tg-0lax">4,689</td>
+    <td class="tg-0lax">47</td>
+    <td class="tg-0lax">159</td>
+    <td class="tg-0lax">3.4%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">105</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1071</td>
+    <td class="tg-0lax">城市學校財團法人臺北城市科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">男</td>
+    <td class="tg-0lax">4,422</td>
+    <td class="tg-0lax">125</td>
+    <td class="tg-0lax">367</td>
+    <td class="tg-0lax">8.3%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">105</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1071</td>
+    <td class="tg-0lax">城市學校財團法人臺北城市科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">女</td>
+    <td class="tg-0lax">2,866</td>
+    <td class="tg-0lax">70</td>
+    <td class="tg-0lax">189</td>
+    <td class="tg-0lax">6.6%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">106</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1057</td>
+    <td class="tg-0lax">德明財經科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">男</td>
+    <td class="tg-0lax">2,769</td>
+    <td class="tg-0lax">106</td>
+    <td class="tg-0lax">233</td>
+    <td class="tg-0lax">8.4%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">106</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1057</td>
+    <td class="tg-0lax">德明財經科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">女</td>
+    <td class="tg-0lax">4,449</td>
+    <td class="tg-0lax">114</td>
+    <td class="tg-0lax">202</td>
+    <td class="tg-0lax">4.5%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">106</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1071</td>
+    <td class="tg-0lax">城市學校財團法人臺北城市科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">男</td>
+    <td class="tg-0lax">4,451</td>
+    <td class="tg-0lax">181</td>
+    <td class="tg-0lax">395</td>
+    <td class="tg-0lax">8.9%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">106</td>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1071</td>
+    <td class="tg-0lax">城市學校財團法人臺北城市科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">女</td>
+    <td class="tg-0lax">2,823</td>
+    <td class="tg-0lax">119</td>
+    <td class="tg-0lax">228</td>
+    <td class="tg-0lax">8.1%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">106</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1057</td>
+    <td class="tg-0lax">德明財經科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">男</td>
+    <td class="tg-0lax">2,769</td>
+    <td class="tg-0lax">67</td>
+    <td class="tg-0lax">217</td>
+    <td class="tg-0lax">7.8%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">106</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1057</td>
+    <td class="tg-0lax">德明財經科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">女</td>
+    <td class="tg-0lax">4,449</td>
+    <td class="tg-0lax">50</td>
+    <td class="tg-0lax">177</td>
+    <td class="tg-0lax">4.0%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">106</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1071</td>
+    <td class="tg-0lax">城市學校財團法人臺北城市科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">男</td>
+    <td class="tg-0lax">4,451</td>
+    <td class="tg-0lax">132</td>
+    <td class="tg-0lax">387</td>
+    <td class="tg-0lax">8.7%</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">106</td>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">私立</td>
+    <td class="tg-0lax">技專校院</td>
+    <td class="tg-0lax">1071</td>
+    <td class="tg-0lax">城市學校財團法人臺北城市科技大學</td>
+    <td class="tg-0lax">學士班(日間)</td>
+    <td class="tg-0lax">女</td>
+    <td class="tg-0lax">2,823</td>
+    <td class="tg-0lax">72</td>
+    <td class="tg-0lax">212</td>
+    <td class="tg-0lax">7.5%</td>
+  </tr>
+</table>
